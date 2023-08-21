@@ -1,4 +1,4 @@
-#Python Internship Assignment
+# Python Internship Assignment
 
 # Amazon Product Web Scraping
 
@@ -15,7 +15,7 @@ You can install the required libraries using the following command:
 pip install requests beautifulsoup4
 ```
 
-#Usage
+## Usage
 #Script 1 - Scraping Product Information
 
 Open web_scraper_part1.py in a text editor or IDE.
