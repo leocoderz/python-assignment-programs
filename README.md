@@ -18,7 +18,7 @@ pip install requests beautifulsoup4
 ## Usage
 
 
-#Script 1 - Scraping Product Information
+## Script 1 - Scraping Product Information
 
 Open web_scraper_part1.py in a text editor or IDE.
 
@@ -30,7 +30,7 @@ python web_scraper_part1.py
 ```
 The script will print the scraped product information to the console.
 
-#Script 2 - Scraping Additional Details
+## Script 2 - Scraping Additional Details
 
 Open web_scraper_part2.py in a text editor or IDE.
 
