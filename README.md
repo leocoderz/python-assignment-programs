@@ -16,6 +16,8 @@ pip install requests beautifulsoup4
 ```
 
 ## Usage
+
+
 #Script 1 - Scraping Product Information
 
 Open web_scraper_part1.py in a text editor or IDE.
